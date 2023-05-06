@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">737809252825-r8lf30cs6i1ipn4mrnfjq8d3ssqm8crl.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">737809252825</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9wlZ9U3Fqu3P9eysN-N1wjZQi3vNTyfY</string>
+    <string name="google_app_id" translatable="false">1:737809252825:android:6dbd8abd73840f5ac159c8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9wlZ9U3Fqu3P9eysN-N1wjZQi3vNTyfY</string>
+    <string name="google_storage_bucket" translatable="false">pkart-e5731.appspot.com</string>
+    <string name="project_id" translatable="false">pkart-e5731</string>
+</resources>
