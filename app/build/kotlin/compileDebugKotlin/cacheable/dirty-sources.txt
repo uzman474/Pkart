@@ -1,0 +1,16 @@
+I:\PKart\app\src\main\java\com\example\pkart\adapter\CartAdapter.kt
+I:\PKart\app\src\main\java\com\example\pkart\activity\CategoryActivity.kt
+I:\PKart\app\src\main\java\com\example\pkart\fragment\MoreFragment.kt
+I:\PKart\app\src\main\java\com\example\pkart\activity\ProductDetailsActivity.kt
+I:\PKart\app\src\main\java\com\example\pkart\roomdb\AppDatabase.kt
+I:\PKart\app\src\main\java\com\example\pkart\model\CategoryModel.kt
+I:\PKart\app\src\main\java\com\example\pkart\adapter\CategoryProductAdapter.kt
+I:\PKart\app\src\main\java\com\example\pkart\fragment\CartFragment.kt
+I:\PKart\app\src\main\java\com\example\pkart\adapter\ProductAdapter.kt
+I:\PKart\app\src\main\java\com\example\pkart\roomdb\ProductModel.kt
+I:\PKart\app\src\main\java\com\example\pkart\model\AddProductModel.kt
+I:\PKart\app\src\main\java\com\example\pkart\adapter\CategoryAdapter.kt
+I:\PKart\app\src\main\java\com\example\pkart\fragment\HomeFragment.kt
+I:\PKart\app\src\main\java\com\example\pkart\MainActivity.kt
+I:\PKart\app\src\main\java\com\example\pkart\roomdb\ProductDao.kt
+I:\PKart\app\build\generated\source\navigation-args\debug\com\example\pkart\fragment\HomeFragmentDirections.kt
